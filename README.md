@@ -1,2 +1,0 @@
-# FAI.
-FAI . fai
